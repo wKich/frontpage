@@ -36,7 +36,7 @@
     "gatsby-source-filesystem": "^2.3.18",
     "gatsby-transformer-sharp": "^2.5.10",
     "global": "^4.4.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lru-cache": "^6.0.0",
     "mobx": "^5.15.1",
     "mobx-react": "^6.1.4",
